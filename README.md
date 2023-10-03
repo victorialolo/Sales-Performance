@@ -30,14 +30,13 @@ Once i got this done successfully, i was able to get the data to Power BI from t
 
 
 ## Data Modelling
-The model is a star schema.
-There are 5 dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship using a common key such as Customer key, Product key, Store key,Dand on the currency and Date table. 
+The model is a star schema. There are 5 dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship using a common key such as Customer key, Product key, Store key,Dand on the currency and Date table. 
+
 ![](Data_Model.png)
 
 ## Visualization
 
-The report is a 
-
+This is a one page dasboard
 ![](Dashboard.png)
 
 You can interactive with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMWYyZjM0ODYtMjM5Mi00NWUyLThkMTgtMWQzMDEwM2VlYmE0IiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
@@ -71,6 +70,9 @@ You can interactive with the report [here](https://app.powerbi.com/view?r=eyJrIj
 Customer Feedback: Collect and analyze customer feedback to understand their preferences, needs, and pain points. Use this information to make improvements in products, services, and the overall shopping experience.
 Seasonal Trends: Analyze if there are any seasonal trends affecting sales. Adjust marketing strategies and inventory management accordingly to capitalize on peak seasons.
 Competitor Analysis: Keep an eye on competitors in the industry. What are they doing differently? Are there strategies or innovations that can be adopted to gain a competitive edge?
+
+You can reach me on [Instagram](https://www.linkedin.com/in/victoriaogwuche/) and [Twitter](https://twitter.com/vicky_star0)
+Thank you
 
 
    
