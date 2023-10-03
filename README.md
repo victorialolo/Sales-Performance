@@ -26,7 +26,7 @@ The data came in a zip folder as a file and to get the data, Here are the steps 
 - I Download and Install SQL Server Management Studio (SSMS) and Developer Edition
 - Restore the ![Contoso file](https://github.com/victorialolo/Sales-Performance/blob/main/Contoso.100K.bak).
   
-Once i got this done successfully, i was able to get the data to Power BI from the SQL Database, i connected to the database that i setup and extracted the table into the Power BI. The data needed to be transformed and clean for ease of the analysis and it was done using Power Query.
+Once i got this done successfully, i was able to get the data to Power BI from the SQL Database, i connected to the database that i setup and extracted the table into the Power BI. The data needed to be transformed and clean for ease of the analysis and it was done using Power Query. The data transformation was done in the power query editor to meet and improve the qualities of the data. 
 
 
 ## Data Modelling
@@ -36,7 +36,7 @@ The model is a star schema. There are 5 dimension tables and 1 fact table. The d
 
 ## Visualization
 
-This is a one page dasboard
+This is a one page report.
 ![](Dashboard.png)
 
 You can interactive with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMWYyZjM0ODYtMjM5Mi00NWUyLThkMTgtMWQzMDEwM2VlYmE0IiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
