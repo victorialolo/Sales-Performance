@@ -39,7 +39,17 @@ The report is a
 
 ![](Dashboard.png)
 
-You can interactive with the report [here]()
+You can interactive with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMWYyZjM0ODYtMjM5Mi00NWUyLThkMTgtMWQzMDEwM2VlYmE0IiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
+
+## Conclusions and Recommendation
+1. At **$380,697.7**, Sat had the highest Total Sales and was 663.04% higher than Sun, which had the lowest Total Sales at **$49,892.3**
+2. Across all 7 Day of Week Short, Total Sales ranged from **$49,892.3** to **$380,697.7**
+3. United State had the highest sales of **$879,106.3** and Italy generated the least sales of **$23,499.2. This can also be drill down to the customer demography of this countries, the Male gender generated more of the sales compare to the Female gender. We can also see the age(group) that brought in more sales to the business.
+4. **Computers** accounts for *8648,923.7** of the total sales making it the highest selling product category for the month with a total order of **455**. Cell phones with **380,932.1** of the total sales, attract customers more as this can be seen in the numbers of customer demands of **479** orders.
+
+## Recommendation
+   
+
 
 
 
